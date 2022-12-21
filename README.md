@@ -30,5 +30,5 @@ I am colombian and work as a data analyst in a <a href="https://www.ycombinator.
 
 - 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a> 
 
-📧 Contact me at:  juandavidp94@gmail.com
+📧 Contact me at:   juandavidp94@gmail.com
 
