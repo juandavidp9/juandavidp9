@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi there, My name is **Juan David P**, I studied  **Econometrics at UNAM** 📈 <br />
+My name is **Juan David P**, I studied  **Econometrics at UNAM** 📈 <br />
 I currently reside in Colombia and work as a data analyst in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
 I want to become a web developer or a data engineer.
 
