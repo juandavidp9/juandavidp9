@@ -14,8 +14,10 @@ I want to become a web developer or a data engineer.
 
 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /> 
+ 
 <br />
 <br />
+
 **I am deeply interested in**
 
 - Learning web development (Backend)
