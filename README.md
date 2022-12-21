@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Juan David 
 
-<br />
-<br />
-
-
 <a href="https://www.linkedin.com/in/juan-penaranda/">
   <img align="left" alt="Juan David's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
