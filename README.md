@@ -16,7 +16,7 @@ I want to become a web developer or a data engineer.
   <img align="center" alt="GIF" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /> 
  
 <br />
-<br />
+
 
 **I am deeply interested in**
 
@@ -41,7 +41,7 @@ I want to become a web developer or a data engineer.
 <br />
 **Contact me**  
 
-<html>
+
 <body>
 <form method="post" action="https://forms.un-static.com/forms/13486deca27d95c2dbdf6a78645e87d8414701d5">
   <div class="form-group row">
@@ -83,4 +83,4 @@ I want to become a web developer or a data engineer.
   <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
 </div>
 </body>
-</html>
+
