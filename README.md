@@ -20,12 +20,14 @@ I am colombian and work as a data analyst in a <a href="https://www.ycombinator.
 
 **I am deeply interested in**
 
-- Learning web development (Backend)
+-  Machine Learning models
+-  Learning web development (Backend)
 
-- Studying Machine Learning models 
 
 **A couple of projects are**
 
+- 🧊 <a href="https://ley2300.streamlit.app/">PaLM Chat App (trained in custom data)</a>
+  
 - 🧊 <a href="https://juandavidp9-ds4app-main-c0tgp1.streamlit.app/">Cooking Time App (Python: OSL and Random Forest)</a> 
 
 - 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a> 
