@@ -7,9 +7,8 @@
 <br />
 
 My name is **Juan David P**, I studied  **Econometrics at UNAM** 📈 <br />
-I am colombian and work as a data analyst in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
-. I want to become a Data Scientist and/or a Web Developer.
- <br /> I have intermediate kwowledge of Python, SQL and Django.
+I am colombian and work as a data scientist in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
+ <br /> I have intermediate kwowledge of Python, Machine Learning, SQL and Django.
 <br /> I am eager to continue learning!
 
 
@@ -21,7 +20,7 @@ I am colombian and work as a data analyst in a <a href="https://www.ycombinator.
 **I am deeply interested in**
 
 -  Machine Learning models
--  Learning web development (Backend)
+-  Data engineering
 
 
 **A couple of projects are**
