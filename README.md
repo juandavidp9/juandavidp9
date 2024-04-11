@@ -25,7 +25,7 @@ I am colombian and work as a data scientist in a <a href="https://www.ycombinato
 
 **Some of my projects**
 
-- 🧊 <a href=" https://github.com/juandavidp9/Azure_imdb-etl"> Azure Data Factory ETL IMDB Movies</a>
+- 🧊 <a href="https://github.com/juandavidp9/Azure_imdb-etl"> Azure Data Factory ETL IMDB Movies</a>
  
 - 🧊 <a href="https://ley2300.streamlit.app/">PaLM Chat App (trained in custom data)</a>
   
