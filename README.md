@@ -23,7 +23,7 @@ I am colombian and work as a data scientist in a <a href="https://www.ycombinato
 -  Data engineering
 
 
-**Some of my projects**
+**Take a look of some of my projects:**
 
 - 🧊 <a href="https://github.com/juandavidp9/Azure_imdb-etl"> Azure Data Factory ETL IMDB Movies</a>
  
