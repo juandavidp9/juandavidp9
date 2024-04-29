@@ -28,10 +28,6 @@ I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
 - 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a>
 
   
-I am colombian and work as a data scientist in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
- <br /> I have kwowledge of Python, Azure (Databricks, Synapse, Data Factory), AWS (Glue, S3, Lambda, Quicksight), Machine Learning, SQL and Django.
-<br /> I am eager to continue learning!
-
   <img align="center" alt="GIF" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /> 
  
 <br />
