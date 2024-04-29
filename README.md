@@ -16,16 +16,16 @@ I have kwowledge of Python, Pyspark, SQL, Django, Azure (Databricks, Synapse, Da
 
 **Take a look at some of my projects:**
 
+- 🧊 <a href="https://ley2300.streamlit.app/"> Streamlit LLM Chat App (trained in custom data)</a>
+  
+- 🧊 <a href="https://juandavidp9-ds4app-main-c0tgp1.streamlit.app/">Data Science: Cooking Time App</a>
+
 - 🧊 <a href="https://github.com/juandavidp9/ecommerce-medallion"> Azure Pyspark E-commerce: Medallion Architecture</a>
 
 - 🧊 <a href="https://github.com/juandavidp9/Azure_imdb-etl"> Azure Data Factory ETL IMDB Movies</a>
 
 - 🧊 <a href="https://github.com/juandavidp9/airflow_podcasts_etl"> Airflow Podcasts Pipeline</a>
  
-- 🧊 <a href="https://ley2300.streamlit.app/">PaLM Chat App (trained in custom data)</a>
-  
-- 🧊 <a href="https://juandavidp9-ds4app-main-c0tgp1.streamlit.app/">Cooking Time App (Python: OSL and Random Forest)</a> 
-
 - 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a>
 
  
