@@ -6,7 +6,7 @@
 <br />
 <br />
 
-My name is **Juan David P**, I studied  **Econometrics at UNAM** 📈 <br />
+I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
 
 **I am deeply interested in**
 
