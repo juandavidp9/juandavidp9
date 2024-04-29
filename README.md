@@ -6,14 +6,14 @@
 <br />
 
 I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
-
+I have kwowledge of Python, Azure (Databricks, Synapse, Data Factory), AWS (Glue, S3, Lambda, Quicksight), Machine Learning, SQL, and Django.
 **I am deeply interested in**
 
 -  Machine Learning 
--  Data engineering
+-  Data Engineering
 
 
-**Take a look of some of my projects:**
+**Take a look at some of my projects:**
 
 - 🧊 <a href="https://github.com/juandavidp9/ecommerce-medallion"> Azure Pyspark E-commerce: Medallion Architecture</a>
 
