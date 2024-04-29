@@ -8,7 +8,7 @@
 
 My name is **Juan David P**, I studied  **Econometrics at UNAM** 📈 <br />
 I am colombian and work as a data scientist in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
- <br /> I have kwowledge of Python, Azure, Machine Learning, SQL and Django.
+ <br /> I have kwowledge of Python, Azure (Databricks, Synapse, Data Factory), AWS (Glue, S3, Lambda, Quicksight), Machine Learning, SQL and Django.
 <br /> I am eager to continue learning!
 
 
