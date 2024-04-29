@@ -27,6 +27,8 @@ I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
 
 - 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a>
 
+ 
+<br />
   
   <img align="center" alt="GIF" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /> 
  
