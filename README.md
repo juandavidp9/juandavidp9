@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Juan David 
-
 <a href="https://www.linkedin.com/in/juan-penaranda/">
   <img align="left" alt="Juan David's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -26,7 +25,9 @@ I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
   
 - 🧊 <a href="https://juandavidp9-ds4app-main-c0tgp1.streamlit.app/">Cooking Time App (Python: OSL and Random Forest)</a> 
 
-- 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a> 
+- 🧊 <a href="https://github.com/juandavidp9/TaskApp">Task App (Django and Python)</a>
+
+  
 I am colombian and work as a data scientist in a <a href="https://www.ycombinator.com/companies">YC startup</a> 
  <br /> I have kwowledge of Python, Azure (Databricks, Synapse, Data Factory), AWS (Glue, S3, Lambda, Quicksight), Machine Learning, SQL and Django.
 <br /> I am eager to continue learning!
@@ -34,6 +35,7 @@ I am colombian and work as a data scientist in a <a href="https://www.ycombinato
   <img align="center" alt="GIF" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" /> 
  
 <br />
+
 
 📧 Contact me at:   juandavidp94@gmail.com
 
