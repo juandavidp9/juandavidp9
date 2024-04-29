@@ -19,7 +19,7 @@ I am colombian and work as a data scientist in a <a href="https://www.ycombinato
 
 **I am deeply interested in**
 
--  Machine Learning models
+-  Machine Learning 
 -  Data engineering
 
 
