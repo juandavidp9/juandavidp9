@@ -6,7 +6,7 @@
 <br />
 
 I studied  **Econometrics at UNAM (National University of Mexico)** 📈 <br />
-I have kwowledge of Python, Azure (Databricks, Synapse, Data Factory), AWS (Glue, S3, Lambda, Quicksight), SQL, and Django.
+I have kwowledge of Python, Pyspark, SQL, Django, Azure (Databricks, Synapse, Data Factory) and AWS (Glue, S3, Lambda, Quicksight).
 
 **I am deeply interested in**
 
