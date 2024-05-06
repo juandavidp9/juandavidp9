@@ -16,6 +16,8 @@ I have kwowledge of Python, Pyspark, SQL, Django, Azure (Databricks, Synapse, Da
 
 **Take a look at some of my projects:**
 
+- 🧊 <a href="https://pypi.org/project/juan-stats/"> My Python Package: Juan Stats. Probability Mass/Density Calculator </a>
+
 - 🧊 <a href="https://ley2300.streamlit.app/"> Streamlit LLM Chat App (trained in custom data)</a>
   
 - 🧊 <a href="https://juandavidp9-ds4app-main-c0tgp1.streamlit.app/">Data Science: Cooking Time App</a>
